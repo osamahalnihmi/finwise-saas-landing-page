@@ -1,5 +1,6 @@
+// src/data/hero.ts
 export const heroDetails = {
-    heading: 'Smart, Secure, Simple Financial Management',
-    subheading: 'From effortless budgeting to real-time investment insights, Finwise puts you in control of your money like never before',
+    heading: 'AccountTechs Software Solutions',
+    subheading: 'Empowering businesses with innovative technology, financial services, and ERP solutions (including Odoo).',
     centerImageSrc: '/images/hero-mockup.webp',
 }
