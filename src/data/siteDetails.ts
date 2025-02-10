@@ -1,9 +1,9 @@
 export const siteDetails = {
-    siteName: 'Finwise',
-    siteUrl: 'https://finwise-omega.vercel.app/',
+    siteName: 'AccountTechs Software Solutions',
+    siteUrl: 'https://accounttechs.vercel.app/',
     metadata: {
-        title: 'Finwise - Next.js and Tailwind CSS Landing Page Template',
-        description: 'Finwise empowers businesses with cutting-edge technology solutions to drive success and efficiency.',
+        title: 'AccountTechs Software Solutions',
+        description: 'AccountTechs empowers businesses with innovative technology and financial services, including ERP solutions like Odoo.',
     },
     language: 'en-us',
     locale: 'en-US',
