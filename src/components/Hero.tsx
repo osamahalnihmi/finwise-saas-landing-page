@@ -1,5 +1,5 @@
 import React from 'react';
-// import Image from 'next/image';
+import Image from 'next/image';
 
 // import AppStoreButton from './AppStoreButton';
 // import PlayStoreButton from './PlayStoreButton';
@@ -37,7 +37,7 @@ const Hero: React.FC = () => {
                         Contact Us
                     </a>
                 </div>
-                {/* <Image
+                <Image
                     src={heroDetails.centerImageSrc}
                     width={384}
                     height={340}
@@ -47,7 +47,7 @@ const Hero: React.FC = () => {
                     unoptimized={true}
                     alt="Company Illustration"
                     className="relative mt-12 md:mt-16 mx-auto z-10"
-                /> */}
+                />
             </div>
         </section>
     );
